@@ -3,7 +3,7 @@ Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu)*
 
 ---
 
-OneStop is an all-in-one personal management application that consolidates multiple functionalities into one easy-to-use interface. Instead of juggling multiple applications for various personal management tasks, OneStop offers a unified solution.
+OneStop is an all-in-one personal management application, made using the Kivy library, that consolidates multiple functionalities into one easy-to-use interface. Instead of juggling multiple applications for various personal management tasks, OneStop offers a unified solution.
 
 <img src="screenshots/2.png" style="width: 300px">
 

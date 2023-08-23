@@ -5,6 +5,12 @@ Author: *[Puru Soni](https://github.com/puru-soni-04) (purusoni@buffalo.edu)*
 
 OneStop is an all-in-one personal management application that consolidates multiple functionalities into one easy-to-use interface. Instead of juggling multiple applications for various personal management tasks, OneStop offers a unified solution.
 
+<img src="screenshots/2.png" style="width: 300px">
+
+<br>
+
+<img src="screenshots/16.png" style="width: 300px">
+
 ## Features
 
 1. **Password Management:** Securely store, retrieve, update, and delete passwords using MySQL.
@@ -13,6 +19,14 @@ OneStop is an all-in-one personal management application that consolidates multi
    - Today's tasks
    - All tasks
 4. **Pomodoro Timer:** Utilize the Pomodoro Technique with customizable focus and break durations.
+
+## Screenshots (more available in the screenshots folder)
+<img src="screenshots/3.png" style="width: 300px">
+<img src="screenshots/4.png" style="width: 300px">
+<img src="screenshots/11.png" style="width: 300px">
+<img src="screenshots/12.png" style="width: 300px">
+<img src="screenshots/13.png" style="width: 300px">
+
 
 ## Prerequisites
 
@@ -45,6 +59,9 @@ To run the app:
 
 Upon launching the app, you'll encounter the login window:
 
+<img src="screenshots/1.png" style="width: 300px">
+
+<br>
 
 **Default Login Credentials:**
   - **Username:** user123
